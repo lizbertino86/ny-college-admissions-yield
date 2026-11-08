@@ -26,3 +26,7 @@ Overall, more selective schools had higher yields. I identified 7 high-yield out
 - `03_tiers.sql`: groups schools into selectivity tiers
 - `04_tiers_4yr.sql`: filters to 4-year schools and averages yield by tier
 - `05_high_yield.sql`: identifies the high-yield outliers
+
+
+
+**Interactive dashboard:** [NY College Selectivity vs Yield](https://public.tableau.com/app/profile/elizabeth.barton7692/viz/NYCollegeSelectivityvsYield/Dashboard)
